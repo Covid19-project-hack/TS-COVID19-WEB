@@ -1,0 +1,172 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "Gandhi Medical College, Secunderabad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "2",
+            "name": " Osmania Medical College, Hyderabad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "3",
+            "name": " Sir Ronald Ross of Tropical Communicable Diseases, Hyderabad ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "4",
+            "name": " Nizam s Institute of Medical Sciences, Hyderabad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "5",
+            "name": " Institute of Preventive Medicine, Hyderabad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "6",
+            "name": " ESIC Medical College, Hyderabad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "7",
+            "name": " Kakatiya Medical College, Warangal ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "8",
+            "name": " Centre for Cellular Molecular Biology, Hyderabad",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "9",
+            "name": " Centre for DNA Fingerprinting Diagnostics, Hyderabad ",
+            "type": "Government",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "10",
+            "name": " Rajiv Gandhi Institute of Medical Sciences, Adilabad ",
+            "type": "Government",
+            "test_type": "CB NAAT"
+        },
+        {
+            "sno": "11",
+            "name": "Laboratory Services, Apollo Hospitals, th Floor, Health Street Building, Jubilee Hills, Hyderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "12",
+            "name": " Vijaya Diagnostic Centre Pvt Ltd, Street No , Himayath Nagar, Hyderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "13",
+            "name": " Vimta Labs Ltd, Plot No , Phase , IDA Cherlapally, Hyderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "14",
+            "name": " Apollo Health and Lifestyle Limited, Diagnostic Labortory, Bowenpally, Secunderabad ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "15",
+            "name": " Dr Remedies Labs Private Ltd, A , Titus Plaza, Sharma Commercial Complex, Punjagutta, Hyderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "16",
+            "name": " Pathcare Labs Pvt Ltd, Medchal, Hyderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "17",
+            "name": " American Institute of Pathology And Lab Sciences Pvt Ltd, Citizens Hospital, Serilingampally, Hyderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "18",
+            "name": " Medcis Pathlabs India Pvt Ltd, Plot No , Swathi Plaza, Anand Nagar, New Bowenpally, Secunderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "19",
+            "name": " Department of Lab Medicine, Yashoda Hospital, th Floor, , Alexander Road, Secunderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "20",
+            "name": " Biognosys Technologies India Pvt Ltd, , NRI Colony, Near Aleap Industrial Area, Medchal, Malkajgiri",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "21",
+            "name": " Tenet Diagnostics, Plot No , Kineta Towers, Journalist Colony, Road No , Banjara Hills, Hyderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "22",
+            "name": " AIG Hospitals, Survey No , Plot No , , Mindspace Rd, Gachibowli, Hyderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "23",
+            "name": " Cell Correct Diagnostics, Virinchi Hospitals, Road No , Banjara Hills, Hyderabad ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "24",
+            "name": " Krishna Institute of Medical Sciences Ltd, Dept of Lab Services, , Minister Road, Secunderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "25",
+            "name": " MAPMYGENOME India Ltd, Royal Demeure, Plot No , Sector , HUDA TEchno Enclave, Madhapur, Hyderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "26",
+            "name": " LEPRA Society Blue Peter Public Health and Research Centre, Cherlapally, Near TEC Building, Hyderabad",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "27",
+            "name": " Lucid Medical Diagnostics Pvt Ltd, Plot No , A, Vasavi Nagar, Karkhana, Secunderabad ",
+            "type": "Private",
+            "test_type": "RT-PCR"
+        },
+        {
+            "sno": "28",
+            "name": " Dept of Lab Medicine, Star Hospital, A Unit of UniMed Healthcare Pvt Ltd, B, Road No , Banjara Hills, Hyderabad",
+            "type": "Private",
+            "test_type": "True NAT"
+        }
+    ]
+}

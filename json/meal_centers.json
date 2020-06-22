@@ -1,0 +1,779 @@
+{
+    "data": [
+        {
+            "sno": "1",
+            "name": "Madhapur",
+            "meals": "120"
+        },
+        {
+            "sno": "2",
+            "name": "Sanath nagar (9959853435)",
+            "meals": "120"
+        },
+        {
+            "sno": "3",
+            "name": "Nims (9059400459)",
+            "meals": "240"
+        },
+        {
+            "sno": "4",
+            "name": "Ameerpet (9966599536)",
+            "meals": "420"
+        },
+        {
+            "sno": "5",
+            "name": "Erragadda (9059550586)",
+            "meals": "120"
+        },
+        {
+            "sno": "6",
+            "name": "ESI (8019818052)",
+            "meals": "120"
+        },
+        {
+            "sno": "7",
+            "name": "Ramanthapur (8106407013)",
+            "meals": "120"
+        },
+        {
+            "sno": "8",
+            "name": "Venkat Reddy Nagar (8096677709)",
+            "meals": "120"
+        },
+        {
+            "sno": "9",
+            "name": "Golnaka (9949498659)",
+            "meals": "60"
+        },
+        {
+            "sno": "10",
+            "name": "Alicafe amberpet (7731912929)",
+            "meals": "0"
+        },
+        {
+            "sno": "11",
+            "name": "Musheerabad (9866675591)",
+            "meals": "120"
+        },
+        {
+            "sno": "12",
+            "name": "Fever Hospital\r\n(849804117)",
+            "meals": "120"
+        },
+        {
+            "sno": "13",
+            "name": "Amberpet (8341829431)",
+            "meals": "120"
+        },
+        {
+            "sno": "14",
+            "name": "Manikeshwar nagar (9010497965)",
+            "meals": "120"
+        },
+        {
+            "sno": "15",
+            "name": "Sundarayya park (9392688717)",
+            "meals": "60"
+        },
+        {
+            "sno": "16",
+            "name": "Lalapet (9959255739)",
+            "meals": "180"
+        },
+        {
+            "sno": "17",
+            "name": "Secunderabad (9959863290)",
+            "meals": "180"
+        },
+        {
+            "sno": "18",
+            "name": "Gandhi Center (8686067397)",
+            "meals": "300"
+        },
+        {
+            "sno": "19",
+            "name": "West maredpally (9059400459)",
+            "meals": "60"
+        },
+        {
+            "sno": "20",
+            "name": "Begumpet (9948465688)",
+            "meals": "120"
+        },
+        {
+            "sno": "21",
+            "name": "SP College",
+            "meals": "60"
+        },
+        {
+            "sno": "22",
+            "name": "opp iskon temple (8885889400)",
+            "meals": "0"
+        },
+        {
+            "sno": "23",
+            "name": "Uppal busstop(Secbad) (9000491456)",
+            "meals": "180"
+        },
+        {
+            "sno": "24",
+            "name": "Toli chowki (9177276739)",
+            "meals": "120"
+        },
+        {
+            "sno": "25",
+            "name": "Masab tank (8977222513)",
+            "meals": "120"
+        },
+        {
+            "sno": "26",
+            "name": "Nbt nagar (9652356828)",
+            "meals": "60"
+        },
+        {
+            "sno": "27",
+            "name": "Golkonda Fort (9618787832)",
+            "meals": "0"
+        },
+        {
+            "sno": "28",
+            "name": "Mehdipatnam (9154965155)",
+            "meals": "240"
+        },
+        {
+            "sno": "29",
+            "name": "Film nagar Basthi  (9299157292)",
+            "meals": "120"
+        },
+        {
+            "sno": "30",
+            "name": "Uppal (9010839823)",
+            "meals": "180"
+        },
+        {
+            "sno": "31",
+            "name": "Nacharam.E.S.I (9160094724)",
+            "meals": "120"
+        },
+        {
+            "sno": "32",
+            "name": "Mallapur (6305127297)",
+            "meals": "120"
+        },
+        {
+            "sno": "33",
+            "name": "Chilukanagar\r\n(9618522938)",
+            "meals": "60"
+        },
+        {
+            "sno": "34",
+            "name": "Neredmet (8142035736)",
+            "meals": "180"
+        },
+        {
+            "sno": "35",
+            "name": "Malkajgiri\r\n(7993779104)",
+            "meals": "150"
+        },
+        {
+            "sno": "36",
+            "name": "East Anand Bagh (9705071106)",
+            "meals": "120"
+        },
+        {
+            "sno": "37",
+            "name": "Meerpet HB colony (8801750588)",
+            "meals": "180"
+        },
+        {
+            "sno": "38",
+            "name": "Vinayak nagar \r\n(7396517724)",
+            "meals": "120"
+        },
+        {
+            "sno": "39",
+            "name": "Ayodya nagar,kapra (9666117873)",
+            "meals": "300"
+        },
+        {
+            "sno": "40",
+            "name": "A.S.Rao Nagar\r\n(9492559945)",
+            "meals": "120"
+        },
+        {
+            "sno": "41",
+            "name": "Ecil industrial area (7396360370)",
+            "meals": "120"
+        },
+        {
+            "sno": "42",
+            "name": "Cherlapally (8179303699)",
+            "meals": "60"
+        },
+        {
+            "sno": "43",
+            "name": "Pedda Cherlapally (9885940941)",
+            "meals": "60"
+        },
+        {
+            "sno": "44",
+            "name": "Hyderguda X roads (9700616767)",
+            "meals": "180"
+        },
+        {
+            "sno": "45",
+            "name": "Chinthalmet (7207048100)",
+            "meals": "120"
+        },
+        {
+            "sno": "46",
+            "name": "Tadbund",
+            "meals": "60"
+        },
+        {
+            "sno": "47",
+            "name": "Aramgarh (9542992681)",
+            "meals": "120"
+        },
+        {
+            "sno": "48",
+            "name": "kattedhan (7801013050)",
+            "meals": "120"
+        },
+        {
+            "sno": "49",
+            "name": "Chandrayangutta (9505918694)",
+            "meals": "180"
+        },
+        {
+            "sno": "50",
+            "name": "Rakshapuram\r\n(9347154022)",
+            "meals": "60"
+        },
+        {
+            "sno": "51",
+            "name": "Is sadan (7893213434)",
+            "meals": "120"
+        },
+        {
+            "sno": "52",
+            "name": "Champapet (9703593325)",
+            "meals": "60"
+        },
+        {
+            "sno": "53",
+            "name": "Bandlaguda (9700616767)",
+            "meals": "0"
+        },
+        {
+            "sno": "54",
+            "name": "Midhani (8099367204)",
+            "meals": "0"
+        },
+        {
+            "sno": "55",
+            "name": "Gachibowli flyover (8072754939) ",
+            "meals": "120"
+        },
+        {
+            "sno": "56",
+            "name": "Anjaih nagar adda (7995042091)",
+            "meals": "180"
+        },
+        {
+            "sno": "57",
+            "name": "Miyapur (9963497643)",
+            "meals": "180"
+        },
+        {
+            "sno": "58",
+            "name": "Yellamabanda KP (7337538612)",
+            "meals": "180"
+        },
+        {
+            "sno": "59",
+            "name": "Jagithgiri Gutta (6303889301)",
+            "meals": "60"
+        },
+        {
+            "sno": "60",
+            "name": "Suraram (9290678304)",
+            "meals": "120"
+        },
+        {
+            "sno": "61",
+            "name": "Mallareddy hospital (8978961929)",
+            "meals": "180"
+        },
+        {
+            "sno": "62",
+            "name": "Kharkana (9908770299)",
+            "meals": "60"
+        },
+        {
+            "sno": "63",
+            "name": "LalBazar (9966829168)",
+            "meals": "0"
+        },
+        {
+            "sno": "64",
+            "name": "K.B.H.B phase 3 (9848915460)",
+            "meals": "120"
+        },
+        {
+            "sno": "65",
+            "name": "Kukatpally (9000960508)",
+            "meals": "240"
+        },
+        {
+            "sno": "66",
+            "name": "Shobana Colony (9705452841)",
+            "meals": "120"
+        },
+        {
+            "sno": "67",
+            "name": "Bowenpally ps(9550904895)",
+            "meals": "60"
+        },
+        {
+            "sno": "68",
+            "name": "Hasmathpet ,bowenpally(9553344237)",
+            "meals": "120"
+        },
+        {
+            "sno": "69",
+            "name": "Kanajiguda (9032686535\r\n9010067619)",
+            "meals": "120"
+        },
+        {
+            "sno": "70",
+            "name": "Alwal \r\n(9985323063)",
+            "meals": "120"
+        },
+        {
+            "sno": "71",
+            "name": "Suchitra X roads (7893300019)",
+            "meals": "60"
+        },
+        {
+            "sno": "72",
+            "name": "Bollaram (9959991606)",
+            "meals": "0"
+        },
+        {
+            "sno": "73",
+            "name": "Alwyn x roads (9515735027)",
+            "meals": "180"
+        },
+        {
+            "sno": "74",
+            "name": "Chandanagar (8374772136)",
+            "meals": "120"
+        },
+        {
+            "sno": "75",
+            "name": "Taranagar market",
+            "meals": "120"
+        },
+        {
+            "sno": "76",
+            "name": "BHEL",
+            "meals": "120"
+        },
+        {
+            "sno": "77",
+            "name": "Patancheru center",
+            "meals": "180"
+        },
+        {
+            "sno": "78",
+            "name": "Khajaguda (9010067619)",
+            "meals": "120"
+        },
+        {
+            "sno": "79",
+            "name": "Parvath nagar (7032062714)",
+            "meals": "60"
+        },
+        {
+            "sno": "80",
+            "name": "Borabanda (9573578846)",
+            "meals": "60"
+        },
+        {
+            "sno": "81",
+            "name": "Motinagar x Road (7981542178)",
+            "meals": "120"
+        },
+        {
+            "sno": "82",
+            "name": "Yousufguda (9052165905)",
+            "meals": "300"
+        },
+        {
+            "sno": "83",
+            "name": "Cancer center (9014377763)",
+            "meals": "180"
+        },
+        {
+            "sno": "84",
+            "name": "Yousufguda ward office (9703243413)",
+            "meals": "180"
+        },
+        {
+            "sno": "85",
+            "name": "Krishna nagar (9700060033)",
+            "meals": "120"
+        },
+        {
+            "sno": "86",
+            "name": "Mangalhut (7306886262)",
+            "meals": "0"
+        },
+        {
+            "sno": "87",
+            "name": "Puranapool",
+            "meals": "120"
+        },
+        {
+            "sno": "88",
+            "name": "Petla burz Center (9676883047)",
+            "meals": "120"
+        },
+        {
+            "sno": "89",
+            "name": "Begumbazar (9666199913)",
+            "meals": "120"
+        },
+        {
+            "sno": "90",
+            "name": "CBS (63057497893)",
+            "meals": "120"
+        },
+        {
+            "sno": "91",
+            "name": "City Civil Court (9989442714)",
+            "meals": "0"
+        },
+        {
+            "sno": "92",
+            "name": "High court\r\n(8688903095)",
+            "meals": "60"
+        },
+        {
+            "sno": "93",
+            "name": "Lal darwaja (8885321711)",
+            "meals": "60"
+        },
+        {
+            "sno": "94",
+            "name": "Falaknuma raithu bazar (9535109579)",
+            "meals": "60"
+        },
+        {
+            "sno": "95",
+            "name": "Asra hospital center (8801509053)",
+            "meals": "60"
+        },
+        {
+            "sno": "96",
+            "name": "Charminar (7386026987)",
+            "meals": "120"
+        },
+        {
+            "sno": "97",
+            "name": "Lakdi ka pul Dwaraka (7981437377)",
+            "meals": "120"
+        },
+        {
+            "sno": "98",
+            "name": "Khairatabad (9652777661)",
+            "meals": "120"
+        },
+        {
+            "sno": "99",
+            "name": "Liberty Circle (9246811568)",
+            "meals": "120"
+        },
+        {
+            "sno": "100",
+            "name": "Dharna chawk (9396920800)",
+            "meals": "120"
+        },
+        {
+            "sno": "101",
+            "name": "Mahankali Temple (9908084804)",
+            "meals": "60"
+        },
+        {
+            "sno": "102",
+            "name": "Monda market (7989296185)",
+            "meals": "60"
+        },
+        {
+            "sno": "103",
+            "name": "Addagutta West maredpally (Chilkalguda x-roads",
+            "meals": "0"
+        },
+        {
+            "sno": "104",
+            "name": "Chilakalguda (9391629455)",
+            "meals": "120"
+        },
+        {
+            "sno": "105",
+            "name": "Varasiguda (8247694027)",
+            "meals": "60"
+        },
+        {
+            "sno": "106",
+            "name": "Kachiguda (9059139360) ",
+            "meals": "120"
+        },
+        {
+            "sno": "107",
+            "name": "Lakdikapool PS (9985852495)\r\n7893027120",
+            "meals": "180"
+        },
+        {
+            "sno": "108",
+            "name": "Assembly (9951887789)",
+            "meals": "0"
+        },
+        {
+            "sno": "109",
+            "name": "Koti maternity Center (7702150901)",
+            "meals": "120"
+        },
+        {
+            "sno": "110",
+            "name": "ENT Hospital (9032282696)",
+            "meals": "120"
+        },
+        {
+            "sno": "111",
+            "name": "king koti (9700340610)",
+            "meals": "120"
+        },
+        {
+            "sno": "112",
+            "name": "Ram koti (7032179021)",
+            "meals": "120"
+        },
+        {
+            "sno": "113",
+            "name": "Mehaboobia college 8464976909",
+            "meals": "60"
+        },
+        {
+            "sno": "114",
+            "name": "Mehaboob gunj (8247365799)",
+            "meals": "240"
+        },
+        {
+            "sno": "115",
+            "name": "Osmania center (9398201575)",
+            "meals": "240"
+        },
+        {
+            "sno": "116",
+            "name": "State central library (8790035193)",
+            "meals": "60"
+        },
+        {
+            "sno": "117",
+            "name": "Dabirpura (9393078532)",
+            "meals": "60"
+        },
+        {
+            "sno": "118",
+            "name": "Nalgonda X road (9347282421)",
+            "meals": "120"
+        },
+        {
+            "sno": "119",
+            "name": "Shankeswar bazar ",
+            "meals": "60"
+        },
+        {
+            "sno": "120",
+            "name": "Madannapet (9502745448)",
+            "meals": "120"
+        },
+        {
+            "sno": "121",
+            "name": "Gudimalkapur (9705386084)",
+            "meals": "420"
+        },
+        {
+            "sno": "122",
+            "name": "Langar house (7842124663)",
+            "meals": "120"
+        },
+        {
+            "sno": "123",
+            "name": "Vijayanagar Colony Labour adda\r\n(9381972703)",
+            "meals": "120"
+        },
+        {
+            "sno": "124",
+            "name": "Neloufer Centre (8121873933)",
+            "meals": "180"
+        },
+        {
+            "sno": "125",
+            "name": "Gode Ki Khaber (7337069400)",
+            "meals": "120"
+        },
+        {
+            "sno": "126",
+            "name": "Nampally area hospital (7893399167)",
+            "meals": "120"
+        },
+        {
+            "sno": "127",
+            "name": "Nampally (9391271003)",
+            "meals": "180"
+        },
+        {
+            "sno": "128",
+            "name": "Gandhi Bhavan\r\n(8886020376)",
+            "meals": "180"
+        },
+        {
+            "sno": "129",
+            "name": "kphb 4th phase",
+            "meals": "120"
+        },
+        {
+            "sno": "130",
+            "name": "Chinthal (9951914227)",
+            "meals": "120"
+        },
+        {
+            "sno": "131",
+            "name": "Moosapet (8008227344)",
+            "meals": "180"
+        },
+        {
+            "sno": "132",
+            "name": "Moosapet goods shed (9502283227)",
+            "meals": "0"
+        },
+        {
+            "sno": "133",
+            "name": "Prasanth nagar\r\n(7095028577)",
+            "meals": "120"
+        },
+        {
+            "sno": "134",
+            "name": "Balanagar (9603040005)",
+            "meals": "120"
+        },
+        {
+            "sno": "135",
+            "name": "Shapur Nagar (9866481114)",
+            "meals": "180"
+        },
+        {
+            "sno": "136",
+            "name": "Moosarambagh (9247378469)",
+            "meals": "180"
+        },
+        {
+            "sno": "137",
+            "name": "P&T colony Chowrastha (9666378130)",
+            "meals": "180"
+        },
+        {
+            "sno": "138",
+            "name": "L.B.nagar (9440216695)",
+            "meals": "240"
+        },
+        {
+            "sno": "139",
+            "name": "Gunti jangaiha colony, lb nagar (6300850878)                ",
+            "meals": "120"
+        },
+        {
+            "sno": "140",
+            "name": "Srinilayam,Sagar road( 7995568935)",
+            "meals": "0"
+        },
+        {
+            "sno": "141",
+            "name": "NTRnagar,Rythu bazar (9000198792)",
+            "meals": "60"
+        },
+        {
+            "sno": "142",
+            "name": "NGO's Colony Bus stop (8121100623)",
+            "meals": "120"
+        },
+        {
+            "sno": "143",
+            "name": "Kothapet Fruit market (9491867423)",
+            "meals": "120"
+        },
+        {
+            "sno": "144",
+            "name": "Rythu bazar, Vanasthalipuram (9700846670)",
+            "meals": "120"
+        },
+        {
+            "sno": "145",
+            "name": "Hayath nagar Bustand (9642566656)",
+            "meals": "120"
+        },
+        {
+            "sno": "146",
+            "name": "Bholakpur",
+            "meals": "0"
+        },
+        {
+            "sno": "147",
+            "name": "Unani Hospital",
+            "meals": "0"
+        },
+        {
+            "sno": "148",
+            "name": "Horticulture College - Rajendranagar",
+            "meals": "0"
+        },
+        {
+            "sno": "149",
+            "name": "Karmika Nagar",
+            "meals": "240"
+        },
+        {
+            "sno": "150",
+            "name": "Bapunagar community hall",
+            "meals": "120"
+        },
+        {
+            "sno": "151",
+            "name": "Balkampet ward ofc",
+            "meals": "120"
+        },
+        {
+            "sno": "152",
+            "name": "SRT vinayak temple",
+            "meals": "120"
+        },
+        {
+            "sno": "153",
+            "name": "Nampally Exhibition ground",
+            "meals": "480"
+        },
+        {
+            "sno": "154",
+            "name": "Netaji nagar,kapra",
+            "meals": "240"
+        },
+        {
+            "sno": "155",
+            "name": "Multi purpose Function hall",
+            "meals": "180"
+        }
+    ]
+}

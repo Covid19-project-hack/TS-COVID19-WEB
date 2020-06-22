@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "district": "Adilabad",
+            "phone_number": "1804251939"
+        },
+        {
+            "district": "Bhadradri Kothagudem",
+            "phone_number": "8744241950"
+        },
+        {
+            "district": "Hyderabad",
+            "phone_number": "9154686549, 9154986552, 9154686558, 9154686557"
+        },
+        {
+            "district": "Jagtial",
+            "phone_number": "08724-222204"
+        },
+        {
+            "district": "Jangaon",
+            "phone_number": "8247847692"
+        },
+        {
+            "district": "Jayashankar Bhupalpally",
+            "phone_number": "08713-248080, 8897622100"
+        },
+        {
+            "district": "Jogulamba Gadwal",
+            "phone_number": "08546-274007"
+        },
+        {
+            "district": "Kamareddy",
+            "phone_number": "1468, 7382928649, 9382929350"
+        },
+        {
+            "district": "Karimnagar",
+            "phone_number": "9849902501, 0878-2234731"
+        },
+        {
+            "district": "Khammam",
+            "phone_number": "1007, 7995511298"
+        },
+        {
+            "district": "Kumuram Bheem",
+            "phone_number": "08733-279108"
+        },
+        {
+            "district": "Mahabubabad",
+            "phone_number": "1800-599-1950, 7995074803, 08719-241950"
+        },
+        {
+            "district": "Mahabubnagar",
+            "phone_number": "08542-241165, 9493786800"
+        },
+        {
+            "district": "Mancherial",
+            "phone_number": "08736-250501"
+        },
+        {
+            "district": "Medak",
+            "phone_number": "08452-223360"
+        },
+        {
+            "district": "Medchal",
+            "phone_number": "9492409781, 08418-29720"
+        },
+        {
+            "district": "Mulugu",
+            "phone_number": "1800-425-0520"
+        },
+        {
+            "district": "Nagarkurnool",
+            "phone_number": "08540-230201"
+        },
+        {
+            "district": "Nalgonda",
+            "phone_number": "1800-425-1442, 08682-244151"
+        },
+        {
+            "district": "Narayanpet",
+            "phone_number": "08506-28288, 08506-282282"
+        },
+        {
+            "district": "Nirmal",
+            "phone_number": "1800-425-5566"
+        },
+        {
+            "district": "Nizamabad",
+            "phone_number": "08462-220183"
+        },
+        {
+            "district": "Peddapalli",
+            "phone_number": "9989071012, 9177641042"
+        },
+        {
+            "district": "Rajanna Sircilla",
+            "phone_number": "6309141122, 08723231166"
+        },
+        {
+            "district": "Rangareddy",
+            "phone_number": "040-2320811, 040-23230813, 040-2323814, 040-23230817, 18004250817"
+        },
+        {
+            "district": "Sangareddy",
+            "phone_number": "0845-272233, 08455-272525"
+        },
+        {
+            "district": "Siddipet",
+            "phone_number": "8457230000"
+        },
+        {
+            "district": "Suryapet",
+            "phone_number": "1800-425-1972, 08684-231008"
+        },
+        {
+            "district": "Vikarabad",
+            "phone_number": "08416-256996, 08416-256998"
+        },
+        {
+            "district": "Wanaparthy",
+            "phone_number": "7288064701, 08545-233525"
+        },
+        {
+            "district": "Warangal (Rural)",
+            "phone_number": "1800-425-3424"
+        },
+        {
+            "district": "Warangal (Urban)",
+            "phone_number": "1800-425-1115, 0870-2510777"
+        },
+        {
+            "district": "Yadadri Bhuvanagiri",
+            "phone_number": "1800-425-7106, 08685-234020"
+        }
+    ]
+}

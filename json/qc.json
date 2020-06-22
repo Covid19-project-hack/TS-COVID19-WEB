@@ -1,0 +1,512 @@
+{
+    "data": [
+        {
+            "district": "Adilabad",
+            "name": "1. Youth Training Centre Building"
+        },
+        {
+            "district": "Adilabad",
+            "name": "2. Post Metric Boys Hostel Minority"
+        },
+        {
+            "district": "Adilabad",
+            "name": "3. Telangana Minority Residential Education School Boys-1 Chanda T"
+        },
+        {
+            "district": "Adilabad",
+            "name": "4. Telangana Minority Residential Education School Boys-2 Chanda T"
+        },
+        {
+            "district": "Adilabad",
+            "name": "5. Tribal Welfare Residential Degree College, Boath H.Q."
+        },
+        {
+            "district": "Adilabad",
+            "name": "6. Mahathma Jyothibapule, Telangana BC Residential School Boys, Mavala"
+        },
+        {
+            "district": "Asifabad (Kumurambheem)",
+            "name": "1. Asifabad PHC"
+        },
+        {
+            "district": "Asifabad (Kumurambheem)",
+            "name": "2. Wankidi PHC"
+        },
+        {
+            "district": "Bhupalpally (Jayashankar)",
+            "name": "1. Haritha Ramappa"
+        },
+        {
+            "district": "Bhupalpally (Jayashankar)",
+            "name": "2. Haritha Tadwai"
+        },
+        {
+            "district": "Bhupalpally (Jayashankar)",
+            "name": "3. Haritha Laknavaram"
+        },
+        {
+            "district": "Bhupalpally (Jayashankar)",
+            "name": "4. Minority School Devagiripatnam"
+        },
+        {
+            "district": "Bhupalpally (Jayashankar)",
+            "name": "5. Youth Training Centre, Dakharam"
+        },
+        {
+            "district": "Bhupalpally (Jayashankar)",
+            "name": "6. KGBV School – Madanpalli"
+        },
+        {
+            "district": "Bhupalpally (Jayashankar)",
+            "name": "7. Modal School Bandarupalli"
+        },
+        {
+            "district": "Bhupalpally (Jayashankar)",
+            "name": "8. YTC – Eturunagaram"
+        },
+        {
+            "district": "Bhupalpally (Jayashankar)",
+            "name": "9. TWRS – Eturunagaram"
+        },
+        {
+            "district": "Gadwal (Jogulamba)",
+            "name": "1. Minority Hostel, Undavalli"
+        },
+        {
+            "district": "Gadwal (Jogulamba)",
+            "name": "2. Social Welfare Hostel, Itikyal"
+        },
+        {
+            "district": "Hyderabad",
+            "name": "1. Gandhi General Hospital"
+        },
+        {
+            "district": "Hyderabad",
+            "name": "2. DH, King Koti"
+        },
+        {
+            "district": "Hyderabad",
+            "name": "3. Govt. Gen. & Chest Hospital"
+        },
+        {
+            "district": "Hyderabad",
+            "name": "4. Sarojini Devi Eye Hospital"
+        },
+        {
+            "district": "Hyderabad",
+            "name": "5. SRRITCD Hospital (Fever)"
+        },
+        {
+            "district": "Hyderabad",
+            "name": "6. BRKR Erragadda (Ayush)"
+        },
+        {
+            "district": "Hyderabad",
+            "name": "7. Nature Cure (Ayush) Hospital, Begumpet"
+        },
+        {
+            "district": "Hyderabad",
+            "name": "8. JSPS Homeo (Ayush)"
+        },
+        {
+            "district": "Hyderabad",
+            "name": "9. D.K. Govt. Homeo Hosp., Ramanthapur"
+        },
+        {
+            "district": "Jagtial",
+            "name": "1. Jayashankar Agri. University, Polasa"
+        },
+        {
+            "district": "Jagtial",
+            "name": "2. JNTU – Kondagattu"
+        },
+        {
+            "district": "Janagoan",
+            "name": "1. Social Welfare Residential School, Jangoan"
+        },
+        {
+            "district": "Janagoan",
+            "name": "2. CHC 30 bedded Hospital, Jafargadda"
+        },
+        {
+            "district": "Kamareddy",
+            "name": "1. Minority School, Bhanswada – Borlam"
+        },
+        {
+            "district": "Kamareddy",
+            "name": "2. South Campus University – Bikanoor"
+        },
+        {
+            "district": "Kamareddy",
+            "name": "3. Modal School, Ellareddy"
+        },
+        {
+            "district": "Karimnagar",
+            "name": "1. Sethavahana University"
+        },
+        {
+            "district": "Karimnagar",
+            "name": "2. Chelmeda Med. College"
+        },
+        {
+            "district": "Karimnagar",
+            "name": "3. Prathima Med. College"
+        },
+        {
+            "district": "Karimnagar",
+            "name": "4. Clinical Hosp."
+        },
+        {
+            "district": "Khammam",
+            "name": "1. Mamatha Medical College (Isolation & Quarantine)"
+        },
+        {
+            "district": "Khammam",
+            "name": "2. Govt. District Hospital (Isolation & Quarantine)"
+        },
+        {
+            "district": "Khammam",
+            "name": "3. AH – Sattupalli (Isolation & Quarantine)"
+        },
+        {
+            "district": "Khammam",
+            "name": "4. AH – Penuballi (Isolation & Quarantine)"
+        },
+        {
+            "district": "Khammam",
+            "name": "5. Saradha College – Manchukonda Road"
+        },
+        {
+            "district": "Khammam",
+            "name": "6. Youth Training Centre – Warangal Cross Road"
+        },
+        {
+            "district": "Kothagudem (Bhadradri)",
+            "name": "1. Manugooru – CHC"
+        },
+        {
+            "district": "Mahabubabad",
+            "name": "1. Telangana Tribal Welfare School"
+        },
+        {
+            "district": "Mancherial",
+            "name": "1. Social Welfare School, Bellampally"
+        },
+        {
+            "district": "Mancherial",
+            "name": "2. Modal School, Mandamarri"
+        },
+        {
+            "district": "Mahbubnagar",
+            "name": "1. JPNEC Engineering College, Bhagiratha Colony"
+        },
+        {
+            "district": "Mahbubnagar",
+            "name": "2. Medical College – Edira3. SVS – Isolation"
+        },
+        {
+            "district": "Medak",
+            "name": "1. Guest House, Edupayalu"
+        },
+        {
+            "district": "Medak",
+            "name": "2. Haritha Guest House, Medak Fort"
+        },
+        {
+            "district": "Medak",
+            "name": "3. Double Bed-room, Haveli Ghanpur"
+        },
+        {
+            "district": "Medchal",
+            "name": "1. Doolapalli Engineering College"
+        },
+        {
+            "district": "Medchal",
+            "name": "2. Jyothiraopule Engineering College"
+        },
+        {
+            "district": "Medchal",
+            "name": "3. Jyothiraopule Engineering College, Ankireddypalli"
+        },
+        {
+            "district": "Medchal",
+            "name": "4. Jyothiraopule Engineering College, Keesaragutta"
+        },
+        {
+            "district": "Medchal",
+            "name": "5. Gurukul College, Ankusapur"
+        },
+        {
+            "district": "Medchal",
+            "name": "6. CHC Medchal7. CHC Ghatkesar"
+        },
+        {
+            "district": "Medchal",
+            "name": "8. AH Malkajgiri"
+        },
+        {
+            "district": "Mulugu",
+            "name": "1. Polytechnic College Parkal"
+        },
+        {
+            "district": "Mulugu",
+            "name": "2. BITS Narsampet"
+        },
+        {
+            "district": "Mulugu",
+            "name": "3. Ashram School Wardhannapet"
+        },
+        {
+            "district": "Nagarkurnool",
+            "name": "1. KGBV – Tadur"
+        },
+        {
+            "district": "Nagarkurnool",
+            "name": "2. Kalwakurthi BC Hostel Complex"
+        },
+        {
+            "district": "Nagarkurnool",
+            "name": "3. Kalwakurthi BC Residential School, Uyyalawada"
+        },
+        {
+            "district": "Nagarkurnool",
+            "name": "4. PTG – Achampet"
+        },
+        {
+            "district": "Nagarkurnool",
+            "name": "5. Minority School – Kollapur"
+        },
+        {
+            "district": "Nalgonda",
+            "name": "1. NG University"
+        },
+        {
+            "district": "Nalgonda",
+            "name": "2. Modal School Miryalaguda"
+        },
+        {
+            "district": "Narayanpet",
+            "name": "1. TSWRS – Singaram Chowrastha"
+        },
+        {
+            "district": "Nirmal",
+            "name": "1. Polytechnic College"
+        },
+        {
+            "district": "Nirmal",
+            "name": "2. KGBV School"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "1. Nursing College, Mukloor"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "2. TSMS, Balkonda"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "3. Balkonda (G)"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "4. TSMS, Jakranpalli"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "5. TSMS, NandhipetArmoor Division"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "6. Kotagiri G"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "7. TSMS, Renjal"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "8. TSMS, VarniBhodan Division"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "9. TSMS, Darpalli"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "10. TSMS, Ditchpalli"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "11. TSWRS, JCG Dharmaram"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "12. TSWRS, JCG, Suddapalli"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "13. TSWRS, JCG, Kanjara"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "14. TSMS, Navipet"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "15. MJPTBCWR School Girls"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "16. TMR Jr. College (B) Minority"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "17. TMRS – Nizamabad B1"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "18. TTWR Degree College (W) Nagaram"
+        },
+        {
+            "district": "Nizamabad",
+            "name": "19. TSMS, Sirikonda"
+        },
+        {
+            "district": "Peddapally",
+            "name": "1. Social Welfare Residential School – Garepally"
+        },
+        {
+            "district": "Peddapally",
+            "name": "2. KGBV Residential – Medaram"
+        },
+        {
+            "district": "Peddapally",
+            "name": "3. TB Hospital, Sulthanabad"
+        },
+        {
+            "district": "Peddapally",
+            "name": "4. DH, Peddpalli"
+        },
+        {
+            "district": "Peddapally",
+            "name": "5. AH, Godavarikhani"
+        },
+        {
+            "district": "Rajanna Siricilla",
+            "name": "1. BC Hostel Gollapally"
+        },
+        {
+            "district": "Rajanna Siricilla",
+            "name": "2. BC Hostel Badennapally"
+        },
+        {
+            "district": "Ranga reddy",
+            "name": "1. Gachibowli Facility"
+        },
+        {
+            "district": "Sangareddy",
+            "name": "1. MNR College"
+        },
+        {
+            "district": "Sangareddy",
+            "name": "2. Maheshwara Med. College, Chitkal"
+        },
+        {
+            "district": "Sangareddy",
+            "name": "3. Narayana Engineering College, RCPuram"
+        },
+        {
+            "district": "Siddipet",
+            "name": "1. Surabhi Med. College, Mittapalli"
+        },
+        {
+            "district": "Siddipet",
+            "name": "2. Minority Residential College, Pragyapur"
+        },
+        {
+            "district": "Suryapet",
+            "name": "1. ASWR School, Imampet"
+        },
+        {
+            "district": "Suryapet",
+            "name": "2. Modal School, Imampet"
+        },
+        {
+            "district": "Suryapet",
+            "name": "3. Chandana School, Suryapet"
+        },
+        {
+            "district": "Vikarabad",
+            "name": "1. Haritha Centre, Vikarabad"
+        },
+        {
+            "district": "Vikarabad",
+            "name": "2. Chest Hospital, Vikarabad"
+        },
+        {
+            "district": "Wanaparthy",
+            "name": "1. Gurukul Jr. College, Marrikunta"
+        },
+        {
+            "district": "Wanaparthy",
+            "name": "2. Youth Trg. Centre, Nagavaram"
+        },
+        {
+            "district": "Warangal Urban & Rural",
+            "name": "1. Kaktiya Med. College"
+        },
+        {
+            "district": "Warangal Urban & Rural",
+            "name": "2. Haritha Kakatiya"
+        },
+        {
+            "district": "Warangal Urban & Rural",
+            "name": "3. Punnami Guest House, Hanmakonda"
+        },
+        {
+            "district": "Warangal Urban & Rural",
+            "name": "4. Kakatiya University Boys Hostel"
+        },
+        {
+            "district": "Warangal Urban & Rural",
+            "name": "5. Kakatiya University Girls Hostel"
+        },
+        {
+            "district": "Warangal Urban & Rural",
+            "name": "6. Kakatiya University Sports Hostel"
+        },
+        {
+            "district": "Warangal Urban & Rural",
+            "name": "7. Govt. Ayurvedic Hospital8. Regional Eye Hospital"
+        },
+        {
+            "district": "Yadadri Bhongiri",
+            "name": "1. AIMS, Bhongiri"
+        },
+        {
+            "district": "Yadadri Bhongiri",
+            "name": "2. Sri Ramanandha Thirtha Hospital, Pochampalli"
+        },
+        {
+            "district": "Yadadri Bhongiri",
+            "name": "3. SC Girls Hostel, Bhongiri"
+        },
+        {
+            "district": "Yadadri Bhongiri",
+            "name": "4. AH, Bhongiri"
+        },
+        {
+            "district": "Yadadri Bhongiri",
+            "name": "5. CHC Chowtuppal"
+        },
+        {
+            "district": "Yadadri Bhongiri",
+            "name": "6. PHC Ramayampet"
+        },
+        {
+            "district": "Yadadri Bhongiri",
+            "name": "7. PHC Aleru"
+        }
+    ]
+}

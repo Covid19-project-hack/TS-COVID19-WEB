@@ -1,0 +1,180 @@
+{
+    "ic": [
+        {
+            "sno": "1",
+            "name": "Gandhi General Hospital, Secunderabad",
+            "type": "Government"
+        },
+        {
+            "sno": "2",
+            "name": "Government Chest and General Hospital, Hyderabad",
+            "type": "Government"
+        },
+        {
+            "sno": "3",
+            "name": "Fever Hospital, Nallakunta, Hyderabad",
+            "type": "Government"
+        },
+        {
+            "sno": "4",
+            "name": "MGM Hospital, Warangal",
+            "type": "Government"
+        },
+        {
+            "sno": "5",
+            "name": "RIMS, Adilabad",
+            "type": "Government"
+        },
+        {
+            "sno": "6",
+            "name": "District Hospital, Khammam",
+            "type": "Government"
+        },
+        {
+            "sno": "7",
+            "name": "District Hospital, Karimnagar",
+            "type": "Government"
+        },
+        {
+            "sno": "8",
+            "name": "Government General Hospital, Nizamabad",
+            "type": "Government"
+        },
+        {
+            "sno": "9",
+            "name": "Government General Hospital, Nalgonda",
+            "type": "Government"
+        },
+        {
+            "sno": "10",
+            "name": "Government General Hospital, Suryapet",
+            "type": "Government"
+        },
+        {
+            "sno": "11",
+            "name": "Government General Hospital, Siddipet",
+            "type": "Government"
+        },
+        {
+            "sno": "12",
+            "name": "Government General Hospital, Mahbubnagar",
+            "type": "Government"
+        },
+        {
+            "sno": "13",
+            "name": "Care Hospitals, Banjara Hills, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "14",
+            "name": "Care Hospitals, Hitech City, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "15",
+            "name": "Care Hospitals, Nampally, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "16",
+            "name": "Continental Hospital, Gachibowli, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "17",
+            "name": "Asian Institute of Nephrology & Urology, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "18",
+            "name": "Basavatarakam Indo-American Cancer Hospital, Banjara Hills, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "19",
+            "name": "Kamineni Academy of Medical Sciences, LB Nagar, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "20",
+            "name": "Apollo Hospital, Jubilee Hills, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "21",
+            "name": "Thumbay Hospital, Chaderghat, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "22",
+            "name": "Virinchi Hospital, Banjara Hills, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "23",
+            "name": "Star Hospital, Banjara Hills, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "24",
+            "name": "Medicover Hospital, Hitech City, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "25",
+            "name": "Yashoda Hospital, Somajiguda, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "26",
+            "name": "Yashoda Hospital, Malakpet, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "27",
+            "name": "Yashoda Hospital, Secunderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "28",
+            "name": "KIMS Hospital, Secunderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "29",
+            "name": "Prathima Hospital, Kachidguda, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "30",
+            "name": "Mallareddy Narayana Hospital, Jeedimetla, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "31",
+            "name": "Sai Sanjeevani Hospital, Kothapet, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "32",
+            "name": "Aware Gleneagles Global Hospital, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "33",
+            "name": "Sunshine Hospital, Secunderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "34",
+            "name": "Rainbow Children’s Hospital, Banjara Hills, Hyderabad",
+            "type": "Private"
+        },
+        {
+            "sno": "35",
+            "name": "Omega Hospital, Banjara Hills, Hyderabad",
+            "type": "Private"
+        }
+    ]
+    
+}
