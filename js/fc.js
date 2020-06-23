@@ -20,7 +20,7 @@ $(document).ready(function () {
             console.log(firebaseUser.email);
         } else {
             console.log('not logged in');
-            // window.location = "signinwithphno.html";
+            window.location = "signinwithphno.html";
         }
     });
     var listgrp = document.getElementById("lstgrp");
